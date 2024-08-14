@@ -5,4 +5,4 @@ I built a reverse shopping cart where you have all items already in the cart and
 [Live Demo](https://thedarkride.de/reverse_cart)
 
 ### Preview
-![[img/preview.png]]
+![](img/preview.png)
